@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Circular;
+  src: url("fonts/CircularStd-Medium.otf");
+}
+
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: Circular;
+}
