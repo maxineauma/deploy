@@ -1,5 +1,10 @@
 # Deploy
 
+<details>
+	<summary>Screenshot</summary>
+	<img src="https://i.imgur.com/zjLv7UI.jpg" alt="Dashboard"/>
+</details>
+
 ## Pre-installation
 
 As per usual, latest Git and Node!
